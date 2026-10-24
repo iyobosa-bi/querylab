@@ -21,3 +21,6 @@ yarn-error.log
 /.nova
 /.vscode
 /.zed
+EXERCISES.md
+LAB_README.md
+CHECK_VALUES.md
